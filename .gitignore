@@ -1,0 +1,9 @@
+
+訓練資料集_first/train_y_answer.csv
+訓練資料集_first/train_x_alert_date.csv
+訓練資料集_first/public_x_alert_date.csv
+訓練資料集_first/public_train_x_remit1_full_hashed.csv
+訓練資料集_first/public_train_x_dp_full_hashed.csv
+訓練資料集_first/public_train_x_custinfo_full_hashed.csv
+訓練資料集_first/public_train_x_cdtx0001_full_hashed.csv
+訓練資料集_first/public_train_x_ccba_full_hashed.csv
